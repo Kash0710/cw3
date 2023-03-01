@@ -1,0 +1,20 @@
+{
+"name": "My webstore",
+"short_name": "webstore",
+"description": "My online web store",
+"icons": [
+{
+"src": "Images/book.jpg",
+"sizes": "192x192",
+"type": "image/png"
+},
+{
+"src": "Images/book2.png",
+"sizes": "512x512",
+"type": "image/png"
+}
+],
+"start_url": "index.html",
+"display": "fullscreen",
+"background_color": "#260bca"
+}

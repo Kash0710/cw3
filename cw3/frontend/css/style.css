@@ -1,0 +1,9 @@
+.product{
+    border: 2px black;
+    padding : 10px;
+    margin:10px;
+    text-align: center;
+}
+h1{
+    color:blue;
+}
